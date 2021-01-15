@@ -1,1 +1,1 @@
-# assignments
+# Instructions for submitting assignments
